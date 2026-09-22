@@ -1,0 +1,10 @@
+.movie-grid {
+  display: grid;
+
+  grid-template-columns: repeat(5, 241.6px);
+
+  column-gap: 18px;
+  row-gap: 20px;
+
+  width: fit-content;
+}
